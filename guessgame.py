@@ -1,5 +1,4 @@
 import random
-from random import randint
 number = random.randint(0, 10)
 guess_limit = 5
 guess_count = 0
